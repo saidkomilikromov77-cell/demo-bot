@@ -7,7 +7,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # ===== TOKENNI SHU YERGA YOZING =====
-BOT_TOKEN = "8956803432:AAFSYDN7giVDzM6EQMEAxgoh1uG8WJV0cx8"
+BOT_TOKEN = "8956803432:AAHbw29owbNCDmjqBprSafDty9_H4hTVtHU"
 
 # ===== ADMIN ID (buyurtmalar keladigan chat) =====
 # O'z Telegram ID ingizni bilish uchun @userinfobot ga /start yuboring
